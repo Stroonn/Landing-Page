@@ -43,4 +43,8 @@ Through this project, I practiced and reinforced the following concepts:
 
 ## 🧩 Project Structure  
 
-<pre><code>```Landing-Page/ ├── index.html ├──style/ │ ├── style.css ```<code><pre>
+<pre><code>Landing-Page/ 
+├── index.html 
+├──style/ 
+│   ├── style.css 
+└──README.md<code><pre>
