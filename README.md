@@ -5,7 +5,7 @@ The goal was to build a fully structured **landing page** using only **HTML and 
 
 ---
 
-## 🧱 Project Overview  
+## Project Overview  
 
 This project focuses on practicing **layout creation** and **page structuring** with **Flexbox**.  
 The page contains the following main sections:  
@@ -19,7 +19,7 @@ The page contains the following main sections:
 
 ---
 
-## 🚀 Features  
+## Features  
 
 - Responsive structure built with **Flexbox**  
 - Organized HTML structure with semantic tags (`header`, `main`, `footer`)  
@@ -29,7 +29,7 @@ The page contains the following main sections:
 
 ---
 
-## 🧠 What I Learned  
+## What I Learned  
 
 Through this project, I practiced and reinforced the following concepts:  
 
@@ -41,7 +41,7 @@ Through this project, I practiced and reinforced the following concepts:
 
 ---
 
-## 🧩 Project Structure  
+## Project Structure  
 
 <pre><code>Landing-Page/ 
 ├── index.html 
